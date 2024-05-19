@@ -22,8 +22,8 @@
   },
   {
     "name": "Tachiyomi: NetTruyen18",
-    "pkg": "eu.kanade.tachiyomi.editor18.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-editor18-v1.4.22.apk",
+    "pkg": "eu.kanade.tachiyomi.editorxx.vi.nettruyen",
+    "apk": "tachiyomi-vi.nettruyen-editorxx-v1.4.22.apk",
     "lang": "vi",
     "code": 22,
     "version": "1.4.22",
@@ -32,7 +32,7 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "NetTruyen Editor18",
+        "name": "NetTruyen18",
         "lang": "vi",
         "id": "5198966899163361086",
         "baseUrl": "http://nettruyen18.hopto.org",
