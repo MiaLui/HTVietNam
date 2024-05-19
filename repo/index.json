@@ -22,8 +22,8 @@
   },
   {
     "name": "Tachiyomi: NetTruyen18",
-    "pkg": "eu.kanade.tachiyomi.editorxx.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-editorxx-v1.4.22.apk",
+    "pkg": "eu.kanade.tachiyomi.revived.vi.nettruyen",
+    "apk": "tachiyomi-vi.nettruyen-editor18-v1.4.22.apk",
     "lang": "vi",
     "code": 22,
     "version": "1.4.22",
