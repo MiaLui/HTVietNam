@@ -40,5 +40,25 @@
         "hasCloudflare": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: TruyenVN",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.36.apk",
+    "lang": "vi",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TruyenVN",
+        "lang": "vi",
+        "id": "5758845301840022147",
+        "baseUrl": "https://truyenvn.xyz",
+        "versionId": 1
+      }
+    ]
   }
 ]
