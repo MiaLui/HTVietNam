@@ -60,5 +60,25 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: NetTruyenX (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenx",
+    "apk": "tachiyomi-vi.nettruyenx-v1.4.5.apk",
+    "lang": "vi",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NetTruyenX (unoriginal)",
+        "lang": "vi",
+        "id": "3129953610837449394",
+        "baseUrl": "http://nettruyen18.hopto.org/",
+        "versionId": 1
+      }
+    ]
   }
 ]
