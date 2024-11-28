@@ -1,3 +1,3 @@
 # HTVietNam
  Tachiyomi Ex
- `https://raw.githubusercontent.com/MiaLui/HTVietNam/main/HT/repo/index.min.json`
+ `https://raw.githubusercontent.com/MiaLui/HTVietNam/refs/heads/main/repo/index.min.json`
